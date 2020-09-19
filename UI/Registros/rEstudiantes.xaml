@@ -9,11 +9,10 @@
         Title="Registro de Estudiantes" Height="360" Width="350">
 
 
-
     <Grid>
         <StackPanel Orientation="Vertical" Margin="10,0,10,0">
 
-        
+
         </StackPanel>
     </Grid>
 </Window>
